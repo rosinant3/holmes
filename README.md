@@ -1,3 +1,3 @@
 # Holmes
 
-React components performing various tasks.
+CMS / React components performing various tasks.
